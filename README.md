@@ -2,7 +2,7 @@
 
 > An interactive 3D portfolio website built with Three.js, GSAP, and WebGL, showcasing projects, skills, and experience in cybersecurity engineering and full-stack development.
 
-**Live:** [fino-portfolio.netlify.app](https://fino-portfolio.netlify.app) &nbsp;|&nbsp; **GitHub:** [github.com/ItsDarker](https://github.com/ItsDarker)
+**Live:** [fino-3d.netlify.app](https://fino-3d.netlify.app) &nbsp;|&nbsp; **GitHub:** [github.com/ItsDarker](https://github.com/ItsDarker)
 
 ---
 
