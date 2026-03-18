@@ -48,7 +48,7 @@ Security-focused engineer pursuing an MS in Cybersecurity at Illinois Institute 
 ```bash
 # Clone the repo
 git clone https://github.com/ItsDarker/3D-Portfolio.git
-cd portfolio-3d
+cd 3D-Portfolio
 
 # Serve with npx (no install needed)
 npx serve . --listen 3000
